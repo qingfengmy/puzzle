@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="notclicked">#aa5a2a8a</color>
+    <color name="clicked">#aa5a2a4a</color>
+
+</resources>

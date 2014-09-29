@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <PreferenceCategory android:title="设置" >
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/leibie"
+            android:entryValues="@array/leibieReturnValue"
+            android:key="style"
+            android:summary="从列表中选择游戏方式"
+            android:title="选择游戏方式" />
+
+        <Preference
+            android:key="background"
+            android:summary="选择应用背景图片"
+            android:title="选择背景" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

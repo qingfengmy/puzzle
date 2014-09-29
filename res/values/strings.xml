@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">卡通拼图</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="instructions">游戏的目标很简单。按照原图移动的乱七八糟的图片，并将其正确的顺序来赢得比赛。</string>
+    <string name="gametype">选择游戏类型来选择游戏类型3 x3或4 x4。</string>
+    <string name="background">选择背景图片设置应用背景。</string>
+
+</resources>
